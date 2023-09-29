@@ -1,1 +1,14 @@
+# Compiled class file
 *.class
+
+# Log files
+*.log
+
+# Eclipse files
+.project
+.classpath
+
+# Package files
+*.jar
+*.war
+*.ear
